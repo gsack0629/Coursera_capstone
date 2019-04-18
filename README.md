@@ -1,2 +1,2 @@
-# git_hubuno
+# Coursera_capstone
 first capstone project
